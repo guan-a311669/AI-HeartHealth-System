@@ -1,0 +1,7 @@
+﻿metric,value,description
+dataset_total_rows,303,Cleaned_Heart_Data 總資料筆數
+train_rows_estimated,242,模型訓練資料筆數，約 80%
+test_rows_estimated,61,模型測試資料筆數，約 20%
+model_count,3,比較的演算法數量，不是取 3 筆資料
+best_model,Random Forest,依 AUC 選出的最佳模型
+best_auc,0.9551,最佳模型 AUC

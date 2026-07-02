@@ -1,0 +1,5 @@
+﻿kpi,value,description
+prediction_count,9.0,完成 AI 風險評估筆數
+health_log_count,5.0,健康追蹤紀錄筆數
+average_risk_score,0.2761,使用者預測紀錄平均 risk_score
+priority_attention_count,0.0,需要優先關注的使用者筆數

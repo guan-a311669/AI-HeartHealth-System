@@ -1,0 +1,32 @@
+# Mac 系統檔
+.DS_Store
+
+# Python 快取
+__pycache__/
+*.pyc
+
+# 虛擬環境
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# 使用者健康紀錄與預測紀錄，避免上傳個資
+reports/user_prediction_result.csv
+reports/health_management_logs.csv
+
+# SQLite 資料庫可能包含使用者紀錄，先不上傳
+database/*.db
+
+# 暫存檔
+*.log
+# Word 文件先不放 GitHub，避免中文檔名或私人草稿上傳
+*.docx
+
+# Notebook 草稿先不上傳
+notebooks/

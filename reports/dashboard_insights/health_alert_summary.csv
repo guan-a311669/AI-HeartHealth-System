@@ -1,0 +1,5 @@
+﻿alert_type,alert_name,count,suggestion
+systolic_bp_high,收縮壓偏高,0,建議規律量測血壓並記錄趨勢
+blood_sugar_high,血糖偏高,0,建議追蹤血糖與代謝風險
+exercise_low,運動量不足,0,建議逐步增加每週活動量
+sleep_low,睡眠時數偏少,0,建議建立規律睡眠紀錄

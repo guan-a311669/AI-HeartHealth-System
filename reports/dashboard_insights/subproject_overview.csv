@@ -1,0 +1,7 @@
+﻿subproject_id,subproject_name,short_name,color_group,status,main_outputs
+1,資料清理、資料庫設計與使用者輸入資料建置,資料庫,blue,已完成 MVP,cleaned_heart_data.csv、heart_disease_project.db、data_quality_report.csv
+2,臨床指標關聯分析與健康建議依據,臨床分析,teal,展示資料已產生,clinical_categorical_risk_table.csv、clinical_numeric_compare_table.csv
+3,AI 風險預測模型與使用者即時預測,AI模型,purple,已完成 MVP,heart_risk_model.pkl、model_comparison.csv、risk_score_report.csv
+4,檢查成本效益與風險分級資源配置分析,成本效益,orange,MVP 模擬資料,cost_effectiveness_demo.csv、resource_allocation_demo.csv
+5,使用者輸入、分流流程與健康管理儀表板應用,使用者流程,pink,已完成初版,Streamlit app_v5、user_prediction_result.csv
+6,個人化健康管理建議與追蹤模組,健康追蹤,green,已完成初版,health_management_logs.csv、health_alert_summary.csv

@@ -1,0 +1,24 @@
+{
+    "target_column": "target",
+    "feature_columns": [
+        "age",
+        "sex",
+        "cp",
+        "trestbps",
+        "chol",
+        "fbs",
+        "restecg",
+        "thalach",
+        "exang",
+        "oldpeak",
+        "slope",
+        "ca",
+        "thal"
+    ],
+    "risk_level_rule": {
+        "low_risk": "risk_score < 0.30",
+        "medium_risk": "0.30 <= risk_score < 0.70",
+        "high_risk": "risk_score >= 0.70"
+    },
+    "disclaimer": "本模型僅作為健康風險評估與決策支援原型，不取代醫師診斷。"
+}

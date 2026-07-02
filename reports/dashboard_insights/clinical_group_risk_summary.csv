@@ -1,0 +1,13 @@
+﻿dimension,group,count,risk_count,risk_rate
+age_group,40-49,72,22,30.56
+age_group,50-59,125,60,48.0
+age_group,60-69,81,49,60.49
+age_group,70+,10,4,40.0
+age_group,<40,15,4,26.67
+bp_group,120-129,75,35,46.67
+bp_group,130-139,70,27,38.57
+bp_group,<120,60,23,38.33
+bp_group,>=140,98,54,55.1
+chol_group,200-239,98,39,39.8
+chol_group,<200,49,20,40.82
+chol_group,>=240,156,80,51.28

@@ -1,0 +1,30 @@
+
+AI 智慧心血管疾病風險預測與健康管理系統
+資料庫檢查摘要
+
+CSV 檔案：
+/Users/a311669gmail.com/Desktop/AI_HeartHealth_System/data/processed/cleaned_heart_data.csv
+
+SQLite 資料庫：
+/Users/a311669gmail.com/Desktop/AI_HeartHealth_System/database/heart_disease_project.db
+
+SQLite 資料表：
+cleaned_patient_data
+
+CSV 資料筆數：
+303
+
+SQLite 資料筆數：
+303
+
+欄位數：
+30
+
+target 檢查：
+target 欄位分布：
+target = 0：164 筆
+target = 1：139 筆
+
+
+資料品質報表：
+/Users/a311669gmail.com/Desktop/AI_HeartHealth_System/reports/data_quality_report.csv
