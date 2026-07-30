@@ -81,13 +81,11 @@ docs/
 
 ## 📊 Model Evaluation
 
-Evaluation metrics include:
+- Logistic Regression Accuracy: **86.89%**
+- Random Forest Accuracy: **90.16%**
+- Best ROC-AUC Score: **95.51%**
 
-- Accuracy
-- ROC-AUC
-- Precision
-- Recall
-- F1 Score
+The Random Forest model achieved the highest classification accuracy, while the best model produced a ROC-AUC score of 95.51%.
 
 ---
 
