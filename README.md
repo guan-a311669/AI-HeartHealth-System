@@ -99,7 +99,7 @@ This project demonstrates how AI and machine learning can support healthcare pro
 
 ## 📷 System Preview
 
-*(Screenshots will be added here.)*
+![AI Heart Health System](images/ai-heart-system.png)
 
 ---
 
