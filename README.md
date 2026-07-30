@@ -1,14 +1,23 @@
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-hearthealth-system-3zritgzsxcw5gzhfvxzcsj.streamlit.app)
 # ❤️ AI Heart Health System
 
 An AI-powered healthcare application that predicts cardiovascular disease risk using machine learning and provides interactive health insights through a Streamlit dashboard.
 
 ---
 
+## 🚀 Live Demo
+
+👉 **Try the AI Heart Health System**
+
+https://ai-hearthealth-system-3zritgzsxcw5gzhfvxzcsj.streamlit.app
+
+---
+
 ## 📌 Project Overview
 
-This project was developed to demonstrate how machine learning can support healthcare decision-making by predicting cardiovascular disease risk based on patient clinical data.
+This project demonstrates how machine learning can assist in cardiovascular disease risk prediction using clinical healthcare data.
 
-The system integrates data preprocessing, model training, prediction, and dashboard visualization into a complete end-to-end workflow.
+The system integrates data preprocessing, model training, prediction, and visualization into an interactive Streamlit application.
 
 ---
 
@@ -16,7 +25,7 @@ The system integrates data preprocessing, model training, prediction, and dashbo
 
 - Predict cardiovascular disease risk
 - Demonstrate machine learning in healthcare
-- Provide an interactive prediction dashboard
+- Build an interactive AI prediction system
 - Support healthcare data analysis
 
 ---
@@ -24,8 +33,9 @@ The system integrates data preprocessing, model training, prediction, and dashbo
 ## 📂 Dataset
 
 - Cleveland Heart Disease Dataset
-- Structured clinical healthcare dataset
-- Used for supervised machine learning
+- Clinical healthcare records
+- Structured tabular dataset
+- Binary classification problem
 
 ---
 
@@ -69,22 +79,21 @@ docs/
 
 ---
 
-## 📊 Model Performance
+## 📊 Model Evaluation
 
-The project evaluates multiple machine learning models for cardiovascular disease prediction.
-
-Metrics include:
+Evaluation metrics include:
 
 - Accuracy
 - ROC-AUC
 - Precision
 - Recall
+- F1 Score
 
 ---
 
 ## 💼 Business Value
 
-This project demonstrates how AI can assist healthcare professionals by transforming clinical data into meaningful risk predictions and supporting preventive healthcare strategies.
+This project demonstrates how AI and machine learning can support healthcare professionals by transforming clinical data into meaningful cardiovascular risk predictions.
 
 ---
 
@@ -96,6 +105,6 @@ This project demonstrates how AI can assist healthcare professionals by transfor
 
 ## 👩‍💻 Author
 
-Shan-Wei Chang
+**Shan-Wei Chang**
 
 AI Data Analyst | Healthcare Analytics | Python | SQL | Power BI
